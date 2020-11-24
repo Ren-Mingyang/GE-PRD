@@ -5,7 +5,7 @@ Gene-environment Interaction Identification via Penalized Robust Divergence
 Mingyang Ren (renmingyang17@mails.ucas.ac.cn)
 
 # Publication
-Mingyang Ren, Sanguo Zhang, Shuangge Ma and Qingzhao Zhang (2020). Gene-environment Interaction Identification via Penalized Robust Divergence. Manuscript
+Mingyang Ren, Sanguo Zhang, Shuangge Ma and Qingzhao Zhang (2020). Gene-environment Interaction Identification via Penalized Robust Divergence. Manuscript.
 
 # Usage
 The following .R and cpp files are submitted:
