@@ -18,7 +18,7 @@ The following .R and cpp files are submitted:
 
 (Codes for real data analysis)
 
-3.TNBC_preprocess.R: This file includes R codes performing the preprocessing of the Triple-Negative Breast Cancer data. This file uses the part of the codes from [Lopes et al., 2018] (http://web.tecnico.ulisboa.pt/susanavinga/TNBC/Lopes_et_al_BMCBioinformatics.Rmd).
+3.TNBC_preprocess.R: This file includes R codes performing the preprocessing of the Triple-Negative Breast Cancer data. This file uses the part of the codes from <http://web.tecnico.ulisboa.pt/susanavinga/TNBC/Lopes_et_al_BMCBioinformatics.Rmd>
 
 4.TNBC_joint.R: This file includes R codes performing joint analysis of the Triple-Negative Breast Cancer data.
 
@@ -29,12 +29,13 @@ The following .R and cpp files are submitted:
 6.gen_data.R: This file includes functions for generating simulated data and evaluating performances of competitors, which are used to support numerical simulation studies. Detailed descriptions of these functions can be found in the notes to this R file.
 
 7.main_joint_simulations.R: This file is used to perform joint analysis for logistic regression and linear regression in simulation studies.
-main_marginal_simulations.R: This file is used to perform marginal analysis for logistic regression and linear regression in simulation studies.
+
+8.main_marginal_simulations.R: This file is used to perform marginal analysis for logistic regression and linear regression in simulation studies.
 
 # Data
 There is a data file used to perform real data analysis in the submitted supplementary files.
 
-1.TNBC.name.list.RData: This file contains the name lists of genes and samples in the Triple Negative Breast Cancer working data, which can be obtained by running codes available at [Lopes et al., 2018] (http://web.tecnico.ulisboa.pt/susanavinga/TNBC/Lopes_et_al_BMCBioinformatics.Rmd).
+1.TNBC.name.list.RData: This file contains the name lists of genes and samples in the Triple Negative Breast Cancer working data, which can be obtained by running codes available at <http://web.tecnico.ulisboa.pt/susanavinga/TNBC/Lopes_et_al_BMCBioinformatics.Rmd>.
 
 # Real data analysis:
 The files “TNBC_preprocess.R”, “TNBC_joint.R”, “TNBC_marginal.R” can be used to conduct real data analysis. 
