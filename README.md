@@ -49,6 +49,7 @@ For Triple-Negative Breast Cancer data analysis, below we describe the procedure
 (joint analysis)
 
 3.Using “TNBC_joint.R”, load data “TNBC.RData”, and source the function.R and the relevant .cpp files (Rcpp_fun_mdpdlogistic.cpp, Rcpp_fun_gammalinear.cpp).
+
 4.Run all codes in “TNBC_joint.R”. Then we can obtain the results which can be saved in .csv files.
 
 (marginal analysis)
